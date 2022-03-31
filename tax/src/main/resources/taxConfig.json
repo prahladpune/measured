@@ -1,0 +1,24 @@
+{
+  "taxSlabs": [
+    {
+      "startIncome": 0.0,
+      "endIncome": 350000.0,
+      "taxRate": 0.0
+    },
+    {
+      "startIncome": 350000,
+      "endIncome": 625000,
+      "taxRate": 9.0
+    },
+    {
+      "startIncome": 625000,
+      "endIncome": 1200000,
+      "taxRate": 18.0
+    },
+    {
+      "startIncome": 1200000,
+      "endIncome": -1.0,
+      "taxRate": 35.0
+    }
+  ]
+}
